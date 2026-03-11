@@ -5,5 +5,7 @@
 * lime
 * salt
 * cilantro
+* onion
+* chili
 
 ## Instructions
