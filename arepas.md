@@ -7,6 +7,7 @@
 - Cheese
 - Minced Meat
 - Guacamole
+- Garlic Sauce
 
 ##Preparation
 - Mix water with the flour
