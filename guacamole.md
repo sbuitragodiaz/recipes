@@ -1,10 +1,10 @@
 # Guacamole
 
 ## Ingredients
-* avocado
-* lime
-* salt
-* cilantro
+* avocado  - Price: XX EUR
+* lime     - Price: XXX EUR
+* salt     - Price: X EUR
+* cilantro - PRice: 
 * onion
 * chili
 
